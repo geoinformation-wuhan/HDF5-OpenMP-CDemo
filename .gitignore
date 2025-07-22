@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# vscode
+.vscode/
+
+# hdf5
+*.h5
+*.hdf5
+*.hdf
+*.h5
